@@ -1,6 +1,7 @@
 # Polynomial-regression-model
-#Dataset
+# Dataset
 It is Position_Salaries.csv and can be found here.
+
 It has 3 columns - "Position", "Level" and "Salary" and describes the approximate salary range for an employee based on what level he falls under.
 
 # Project Objective
