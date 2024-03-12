@@ -1,4 +1,6 @@
-# Polynomial-regression-model
+# Polynomial-Regression-Position-Salaries-
+This repository contains code for a Polynomial Regression model trained to predict the salary based on position levels.
+
 # Dataset
 It is Position_Salaries.csv and can be found here.
 
